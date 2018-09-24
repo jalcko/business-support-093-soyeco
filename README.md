@@ -15,3 +15,6 @@ Aplicación mediante la cual se busca empoderar a los habitantes de Engativá pa
   <li>Javier Morales</li>
   <li>Roselin Orozco</li>
 </ul>
+
+
+# Diagrama Base de Datos
